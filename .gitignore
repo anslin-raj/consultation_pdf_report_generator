@@ -1,0 +1,14 @@
+.env
+.python-version
+frontend/node_modules
+/.pnp
+.pnp.js
+backend/venv
+backend/db.sqlite3
+backend/.python-version
+backend/logos
+backend/__pycache__
+backend/api_auth/__pycache__
+backend/backend/__pycache__
+backend/consultation_report/__pycache__
+notes.txt
